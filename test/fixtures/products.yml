@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  created_at: 2015-10-28 12:52:19
+  expiration_date: 2015-10-28
+  name: MyString
+  description: MyText
+  import_price: 1.5
+  export_price: 1.5
+  profit: 1.5
+  stock: 1
+
+two:
+  id: 
+  created_at: 2015-10-28 12:52:19
+  expiration_date: 2015-10-28
+  name: MyString
+  description: MyText
+  import_price: 1.5
+  export_price: 1.5
+  profit: 1.5
+  stock: 1
